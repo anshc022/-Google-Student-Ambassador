@@ -135,11 +135,15 @@ Hey there! 👋 I'm **Pranshu Chourasia**, a student developer, community builde
 
 | Tool | Purpose | Why I Chose It |
 |------|---------|----------------|
-| **Google Gemini** | Brainstorming concepts | Because Google tools for Google application! 🧠 |
-| **ChatGPT-4o** | Creative writing & scripts | For that perfect storytelling touch ✍️ |
-| **Google VideoFX** | Pitch video generation | Google's own magic for the win! 🎥 |
-| **Midjourney + DALL·E** | Comic visuals | Because visuals speak louder than words! 🎨 |
-| **Figma** | UI/UX prototypes | For those startup mockups that wow! 🎭 |
+| **Google Gemini** | AI brainstorming, creative writing & content generation | The only AI I need - Google's own magic! 🧠 |
+| **Google Veo3** | Pitch video generation | Google's cutting-edge video creation tool! 🎥 |
+| **GitHub Markdown** | README formatting & structure | For that perfect documentation presentation! 📝 |
+| **Giphy API** | Meme GIFs & animations | Because static is boring - bring on the memes! 🎭 |
+| **Shields.io** | Dynamic badges & status indicators | Making achievements look professional! � |
+| **VS Code** | Code editing & project management | The ultimate developer workspace! 💻 |
+| **Git & GitHub** | Version control & repository hosting | Tracking every creative iteration! 🔄 |
+| **Figma** | UI/UX prototypes for startups | Visual mockups that speak volumes! 🎨 |
+| **HTML/CSS** | Custom styling & layout | Making README beautiful with code! ✨ |
 
 ---
 
