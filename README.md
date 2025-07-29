@@ -191,7 +191,7 @@ With Google's support, I plan to:
 
 <div align="center">
 
-![Spongebob Mocking](https://media.giphy.com/media/SiNQ8UFLF3QeBAWUdl/giphy.gif)
+![This is Fine Dog](https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif)
 
 </div>
 
