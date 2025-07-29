@@ -238,8 +238,8 @@ With my track record of building communities, creating impact, and thinking outs
 
 ### 📫 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pranshu-chourasia)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/pranshuchourasia)
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=web)](http://www.trishulx.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranshu-chourasia-615428275/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/anshc022)
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=web)](https://pranshudev.xyz/)
 
 </div>
