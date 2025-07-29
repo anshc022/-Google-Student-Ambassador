@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![This is Fine](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
 **"Don't wait to be chosen. Build, lead, and become the reason change happens."**
 
@@ -21,7 +21,7 @@ Hey there! 👋 I'm **Pranshu Chourasia**, a student developer, community builde
 
 <div align="center">
 
-![Building](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Drake Pointing](https://media.giphy.com/media/gVoBC0SuaHStq/giphy.gif)
 
 *From organizing national hackathons to leading tech communities, I thrive on impact, collaboration, and innovation.*
 
@@ -35,7 +35,7 @@ Hey there! 👋 I'm **Pranshu Chourasia**, a student developer, community builde
 
 <div align="center">
 
-![Superhero](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)
+![Stonks](https://media.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif)
 
 </div>
 
@@ -56,7 +56,7 @@ Hey there! 👋 I'm **Pranshu Chourasia**, a student developer, community builde
 
 <div align="center">
 
-![Creative](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Mind Blown](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 ### **It's Not Just Text - It's an Experience!**
 
@@ -73,7 +73,7 @@ Hey there! 👋 I'm **Pranshu Chourasia**, a student developer, community builde
 
 <div align="center">
 
-![DNA](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
+![Big Brain](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
 
 </div>
 
@@ -112,7 +112,7 @@ Hey there! 👋 I'm **Pranshu Chourasia**, a student developer, community builde
 
 <div align="center">
 
-![Proof](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Stonks Up](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
 
 </div>
 
@@ -129,7 +129,7 @@ Hey there! 👋 I'm **Pranshu Chourasia**, a student developer, community builde
 
 <div align="center">
 
-![Tech Stack](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Hackerman](https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif)
 
 </div>
 
@@ -147,7 +147,7 @@ Hey there! 👋 I'm **Pranshu Chourasia**, a student developer, community builde
 
 <div align="center">
 
-![Plot Twist](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
+![Dramatic Look](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif)
 
 ### **I'm Already Acting Like a Google Student Ambassador!**
 
@@ -167,7 +167,7 @@ Hey there! 👋 I'm **Pranshu Chourasia**, a student developer, community builde
 
 <div align="center">
 
-![Future](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+![To the Moon](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 
 </div>
 
@@ -187,7 +187,7 @@ With Google's support, I plan to:
 
 <div align="center">
 
-![Fun Facts](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
+![Spongebob Mocking](https://media.giphy.com/media/SiNQ8UFLF3QeBAWUdl/giphy.gif)
 
 </div>
 
@@ -203,7 +203,7 @@ With Google's support, I plan to:
 
 <div align="center">
 
-![Thank You](https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif)
+![Shut Up and Take My Money](https://media.giphy.com/media/sDcfxFDozb3bO/giphy.gif)
 
 ### **Dear Google Team,**
 
@@ -220,7 +220,7 @@ With my track record of building communities, creating impact, and thinking outs
 
 <div align="center">
 
-![Let's Go](https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif)
+![Deal With It](https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif)
 
 **Made with ❤️, 🧠, and way too much ☕**
 
